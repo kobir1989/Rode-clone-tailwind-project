@@ -1,0 +1,47 @@
+@media screen and (min-width: 976px) {
+  .hero {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://edge.rode.com/images/page/1/modules/5813/rode-rodecaster-pro-II-home-page-1920x700-rgb.jpg');
+  }
+  .girl {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://edge.rode.com/images/page/1/modules/5873/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg');
+  }
+  .desk {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://edge.rode.com/images/page/1/modules/5914/rode-nt-usb-webheader-v7-1920x700-rgb.jpg');
+  }
+  .purple {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://edge.rode.com/images/page/1/modules/1508/rode-podmic-webheader-1920x700-rgb%20(2).jpg');
+  }
+  .wireless {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://edge.rode.com/images/page/1/modules/314/WIGOII-WEBHEADER-02.jpg');
+  }
+  .usbMini {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://edge.rode.com/images/page/1/modules/5303/rode-nt-usb-mini-webheader-1920x700-rgb%20(2).jpg');
+  }
+}
+.microphones {
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5357%2Fmicrophones-module-1200x300-rgb.png');
+}
+.mixers {
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://rode.com/assets/images%2Fpage%2F1%2Fmodules%2F5359%2Finterfaces-module-2022-1200x300-rgb.jpg');
+}
+.software {
+  background-position: center;
+  background-size: cover;
+  background-image: url('https://edge.rode.com/images%2Fpage%2F1%2Fmodules%2F5361%2Fsoftware-module-2021-1200x300-rgb.png');
+}
